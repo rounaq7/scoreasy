@@ -2,6 +2,7 @@
   "name": "scoreazy-frontend",
   "version": "1.0.0",
   "description": "Frontend for Scoreazy Counseling & Mentorship Program",
+  "homepage": "https://rounaq7.github.io/scoreasy",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
